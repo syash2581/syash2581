@@ -12,7 +12,5 @@
 [<img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/f991abf5d57f3cc9a9c45c324520a871bd7c054ec68ef9a4f0444fee77f1e29e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e7374616772616d2d6e65772e706e67" />][facebook]
 
 <br />
-
-
 [twitter] : https://twitter.com/shahyash2582001
 [facebook] : https://www.facebook.com/syash2581
