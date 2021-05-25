@@ -1,4 +1,4 @@
-## Hi there,I'm Yash Shah - Android Developer 👋
+## Hi there, I'm Yash Shah - Android Developer 👋
 - 🔭 I’m currently working on android projects and exploring android features.
 - 🌱 I’m currently learning android application development. 🤣
 - 🥅 2021 Goals: "learning learnig learning"
