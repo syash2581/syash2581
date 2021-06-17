@@ -5,6 +5,7 @@
 - 🥅 2021 Goals: "learning learning learning"
 - ⚡ Fun fact: I love to travel to new places.
 
+#
 ### Connect with me:
 
 
@@ -30,5 +31,5 @@
 [<img src="twitter.png" height="50" width="50"/>](https://twitter.com/shahyash2582001)
 [<img src="linkdin.png" height="50" width="50"/>](https://www.linkedin.com/in/yash-shah-2bb205160/)
 
-
+#
 ### Known Programming Languages
