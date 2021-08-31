@@ -34,7 +34,7 @@
 #
 ### Known Programming Languages
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FC_(programming_language)&psig=AOvVaw2EHOAG8gv7aP0T8w2LkGdP&ust=1630482606567000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjp-Zbj2vICFQAAAAAdAAAAABAD" height="50" width="50"/>](https://www.facebook.com/syash2581)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="50" width="50"/>](https://www.facebook.com/syash2581)
 [<img src="instagram.png" height="50" width="50"/>](https://www.instagram.com/yashshah2581)
 [<img src="twitter.png" height="50" width="50"/>](https://twitter.com/shahyash2582001)
 [<img src="linkdin.png" height="50" width="50"/>](https://www.linkedin.com/in/yash-shah-2bb205160/)
