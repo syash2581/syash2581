@@ -34,7 +34,7 @@
 #
 ### Known Programming Languages
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="50" width="50"/>]()
+![](<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="50" width="50"/>)
 *Programming in C*
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="50" width="50"/>](https://www.javatpoint.com/c-programming-language-tutorial)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50"/>](https://www.javatpoint.com/cpp-tutorial)
