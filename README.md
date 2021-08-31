@@ -32,7 +32,7 @@
 [<img src="linkdin.png" height="50" width="50"/>](https://www.linkedin.com/in/yash-shah-2bb205160/)
 
 #
-### Known Programming Languages
+<!-- ### Known Programming Languages
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="50" width="50"/>](https://www.javatpoint.com/c-programming-language-tutorial)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png"  height="50" width="50" />](https://www.javatpoint.com/cpp-tutorial)
@@ -41,7 +41,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50" width="50" />](https://www.javatpoint.com/javascript-tutorial/)
 
-
+-->
 
 ##
 
