@@ -34,10 +34,11 @@
 #
 ### Known Programming Languages
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png"  height="50" width="50"/>](https://www.javatpoint.com/c-programming-language-tutorial)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="50" width="50"/>](https://www.javatpoint.com/c-programming-language-tutorial)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png"  height="50" width="50" />](https://www.javatpoint.com/cpp-tutorial)
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/351px-Java_programming_language_logo.svg.png"  height="50" width="50" />](https://www.javatpoint.com/java-tutorial)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"  height="50" width="50" />](https://www.javatpoint.com/php-tutorial/)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50" width="50" />](https://www.javatpoint.com/javascript-tutorial/)
 
 
