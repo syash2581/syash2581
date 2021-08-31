@@ -33,6 +33,10 @@
 
 #
 ### Known Programming Languages
+<figure>
+  <img src="{{https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png}}" alt="my alt text" height="50" width="50"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png)
 *Programming in C*
