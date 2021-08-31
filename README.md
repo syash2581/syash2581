@@ -39,13 +39,12 @@
 [<img src="twitter.png" height="50" width="50"/>](https://twitter.com/shahyash2582001)
 [<img src="linkdin.png" height="50" width="50"/>](https://www.linkedin.com/in/yash-shah-2bb205160/)
 
-
-```java
+<!-- ```java
 
 public static void main(String args[])
 {
   System.out.println("Hello World");
 }
 
-```
+``` -->
 
