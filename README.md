@@ -36,7 +36,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/330px-C_Programming_Language.svg.png" height="85" width="85"/>](https://www.javatpoint.com/c-programming-language-tutorial)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="85" width="85" />](https://www.javatpoint.com/cpp-tutorial)
-[<img src="twitter.png" height="85" width="85" />](https://twitter.com/shahyash2582001)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/351px-Java_programming_language_logo.svg.png" height="85" width="85" />](https://www.javatpoint.com/java-tutorial)
 [<img src="linkdin.png" height="85" width="85" />](https://www.linkedin.com/in/yash-shah-2bb205160/)
 
 <!-- ```java
