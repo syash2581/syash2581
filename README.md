@@ -40,8 +40,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"  height="50" width="50" />](https://www.javatpoint.com/php-tutorial/)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50" width="50" />](https://www.javatpoint.com/javascript-tutorial/)
-
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  height="50" width="50" />](https://nodejs.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  height="50" width="50" />](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  height="50" width="50" />](https://redux.js.org)
 
 ##
 
