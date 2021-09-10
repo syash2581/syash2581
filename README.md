@@ -5,6 +5,15 @@
 - 🥅 2021 Goals: "learning learning learning"
 - ⚡ Fun fact: I love to travel to new places.
 
+```java
+
+public static void main(String[] args)
+{
+  System.out.println("Hello World");
+}
+
+
+```
 #
 ### Connect with me:
 
